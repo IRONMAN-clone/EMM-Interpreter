@@ -1,3 +1,4 @@
+//EMM interpreter
 #include <string.h>
 #include <stdlib.h>
 
